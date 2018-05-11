@@ -1,0 +1,29 @@
+* {
+  padding: 0;
+  margin:0;
+}
+
+button {
+  margin: 20px auto;
+  padding: 40px;
+  background-color: cadetblue;
+  color: white;
+  border: none;
+  display: block;
+  width: 550px;
+  border-radius: 10px;
+  font-size: 45px;
+}
+
+button:hover {
+  background-color: cornflowerblue;
+  cursor: pointer;
+}
+
+div {
+  margin-top: 30px;
+  height: 400px;
+  font-family: monospace, roboto, arial;
+  font-size: 100px;
+  text-align: center;
+}
